@@ -1,0 +1,25 @@
+body {
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(90, 10px);
+    grid-template-rows: repeat(7, 10px);
+    gap: 2px;
+}
+
+.cell {
+    width: 10px;
+    height: 10px;
+    background: #111;
+    transition: background 0.2s;
+}
+
+.active {
+    background: #ff0066;
+}
