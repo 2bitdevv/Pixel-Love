@@ -1,4 +1,4 @@
-# 💖 Pixel Love Animation - By DevBboss
+# 💖 Pixel Love Animation 
 
 Welcome to **Pixel Love Animation**, a creative pixel-based animation project that reveals messages — one dot at a time. Built with pure **HTML + CSS + JavaScript**, no frameworks needed.
 
