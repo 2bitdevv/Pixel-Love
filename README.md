@@ -1,22 +1,36 @@
+# 💖 Pixel Love Animation - By DevBboss
 
-## 🎯 คุณสมบัติ
+Welcome to **Pixel Love Animation**, a creative pixel-based animation project that reveals messages — one dot at a time. Built with pure **HTML + CSS + JavaScript**, no frameworks needed.
 
-- แสดงตัวอักษรทีละพิกเซลแบบอนิเมชัน
-- ปรับแต่งข้อความได้ง่าย
-- ใช้ HTML, CSS, และ JavaScript ธรรมดา ไม่ต้องใช้ไลบรารีเพิ่มเติม
-- รองรับการเพิ่มตัวอักษรใหม่ (bitmap 5x7)
-- แสดงอีโมจิหัวใจ (♥) ด้วยพิกเซล
+🎬 **Concept:**  
+Imagine telling someone "I LOVE YOU" with glowing pixels that appear one by one — like retro LED signage powered by love 💡
 
-## 🚀 วิธีใช้งาน
+🔗 **Live Preview:**  
+👉 (Put your GitHub Pages link or live demo here)
 
-1. คัดลอกไฟล์ `index.html` ไปไว้ในเครื่อง
-2. เปิดด้วยเว็บเบราว์เซอร์ (Chrome, Edge, Firefox)
-3. ข้อความจะค่อยๆ แสดงขึ้นมา
+---
 
-## 🛠 ปรับแต่ง
+## 📂 Project Structure
 
-### ✅ เปลี่ยนข้อความ
-ไปที่บรรทัดนี้ในไฟล์:
+- **`index.html`** – Main HTML entry point
+- **`style` (inlined)** – Simple but stylish CSS grid for pixel effect
+- **`script` (inlined)** – JavaScript animation logic
+- **`README.md`** – You’re reading it 💬
 
+---
+
+## 🚀 Tech Stack
+
+- 🧱 Vanilla HTML
+- 🎨 Pure CSS Grid
+- ⚡️ JavaScript (no libraries)
+- ❤️ Pixel-style animation
+- 🚀 Runs directly in browser
+
+---
+
+## 🔤 Customization
+
+### ✏️ Change the message
 ```js
 const message = "I LOVE YOU ♥";
