@@ -6,8 +6,7 @@ Welcome to **Pixel Love Animation**, a creative pixel-based animation project th
 Imagine telling someone "I LOVE YOU" with glowing pixels that appear one by one — like retro LED signage powered by love 💡
 
 🔗 **Live Preview:**  
-👉 (Put your GitHub Pages link or live demo here)
-
+👉 https://pixellove.netlify.app/
 ---
 
 ## 📂 Project Structure
