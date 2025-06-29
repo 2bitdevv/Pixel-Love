@@ -27,7 +27,7 @@ Imagine telling someone "I LOVE YOU" with glowing pixels that appear one by one 
 - 🚀 Runs directly in browser
 ## 📸 Preview
 
-!(./ilove.jpg)
+![preview](./ilove.jpg)
 
 ---
 
