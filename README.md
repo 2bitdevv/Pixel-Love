@@ -25,6 +25,9 @@ Imagine telling someone "I LOVE YOU" with glowing pixels that appear one by one 
 - ⚡️ JavaScript (no libraries)
 - ❤️ Pixel-style animation
 - 🚀 Runs directly in browser
+## 📸 Preview
+
+![preview](./preview.png)
 
 ---
 
